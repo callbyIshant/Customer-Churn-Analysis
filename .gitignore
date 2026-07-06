@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files — keep .db in repo for reproducibility; exclude large exports if needed
+# Uncomment below if your .db file is too large for GitHub (>100MB)
+# *.db
+
+# Environment variable files
+.env
+*.env
+
+# Logs
+*.log
